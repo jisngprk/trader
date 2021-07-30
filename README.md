@@ -3,6 +3,7 @@
 
 ### secret_key.py
 
+Please make your own secret_key.py file in the directory
 In your secret_key.py, you should set two variables
 
 1. access
